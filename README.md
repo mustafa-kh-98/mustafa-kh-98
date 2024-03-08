@@ -11,7 +11,7 @@
 Feel free to connect with me for any collaboration, questions, or discussions:
 
 - 📧 **Email**: [mustafa.khalied.98@gmail.com](mustafa.khalied.98@gmail.com)
-- 🔗 **LinkedIn:** [@mustafa-kh-linkedin](https://www.linkedin.com/in/mustafa-suliman-951935155/)
+- 🔗 **LinkedIn:** [@mustafa-kh-linkedin](https://www.linkedin.com/in/mustafa-khalied-951935155/)
 - 🌐 **Telegram:** [@mustafa-kh-tele](https://t.me/Mustafakh3661)
 - 🚀 **GitHub:** [@mustafa-kh](https://github.com/mustafa-kh-98)
 
