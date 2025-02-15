@@ -1,5 +1,5 @@
 # Mustafa Khalid
-👋 Hi, I'm Mustafa Khalid, a passionate Flutter developer with a background in IT. Currently studying at SVU, I have been actively involved in Flutter development for over 2 years.
+👋 Hi, I'm Mustafa Khalid, a passionate Flutter developer with a background in IT. Currently studying at SVU, I have been actively involved in Flutter development for over 3 years.
 
 ## About Me
 - **Name:** Mustafa Khalid
