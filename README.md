@@ -5,14 +5,14 @@
 - **Name:** Mustafa Khalid
 - **Education:** IT at SVU
 - **Occupation:** Flutter Developer
-- **Experience:** +2 years in Flutter development
+- **Experience:** +3 years in Flutter development
 
 ## Get in Touch
 Feel free to connect with me for any collaboration, questions, or discussions:
 
 - 📧 **Email**: [mustafa.khalied.98@gmail.com](mustafa.khalied.98@gmail.com)
 - 🔗 **LinkedIn:** [@mustafa-kh-linkedin](https://www.linkedin.com/in/mustafa-khalied-951935155/)
-- 🌐 **Telegram:** [@mustafa-kh-tele](https://t.me/Mustafakh3661)
+- 🌐 **Telegram:** [@mustafa-kh-tele](https://t.me/@mustafakh98)
 - 🚀 **GitHub:** [@mustafa-kh](https://github.com/mustafa-kh-98)
 
 
